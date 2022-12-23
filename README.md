@@ -8,7 +8,7 @@
 
 <table>
 <tr>
-<td><img align="left" width="300px" src="./assets/coding-in-forest.svg" /></td>
+<td><img align="left" width="300px" src="./asset/coding-in-forest.svg" /></td>
 <td>
 <!--About Me-->
 
