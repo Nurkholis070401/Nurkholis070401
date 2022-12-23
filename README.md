@@ -19,9 +19,9 @@
 - 🌱 I’m currently learning ***DSA;***  
 
 - 💬 Ask me about ***Web Development;***
-- 🔭 I’m currently working on ***[IGNOU की BCA कक्षा](https://bcakaksha.vercel.app)***;
-- 📫 How to reach me ***<a href="mailto:dilkhush_raj@outlook.com">dilkhush_raj@outlook.com</a>***;
-- 👨‍💻 All of my projects are available at ***[https://dilkhush.vercel.app](https://dilkhush.vercel.app)***;
+- 🔭 I’m currently working on ***[My Project](https://github.com/Nurkholis070401)***;
+- 📫 How to reach me ***<a href="kholisulis19@gmail.com">kholisulis19@gmail.com</a>***;
+- 👨‍💻 All of my projects are available at ***[https://github.com/Nurkholis070401](https://github.com/Nurkholis070401)***;
 <!-- - 📝 I regularly write articles on -->
 <!-- - 📄 Know about my experiences [](Resume) -->
 </td>
